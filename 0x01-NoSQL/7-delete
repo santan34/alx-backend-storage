@@ -1,0 +1,2 @@
+//delete by mathc
+db.school.detelMany({name: "Holberton school"})
